@@ -1,0 +1,29 @@
+.calcu {
+    background-color: gray;
+    width: 35%;
+    margin: 0px auto;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+
+h1 {
+    color: white;
+    font-family: sans-serif;
+}
+
+.calcu div {
+    line-height: 70px;
+}
+
+.buttonInput input {
+    font-size: 27px;
+    margin: 0px 12px;
+    padding: 2px 12px;
+}
+
+#textBox {
+    font-size: 22px;
+    height: 4rem;
+    border-radius: 20px;
+}
